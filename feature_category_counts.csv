@@ -1,0 +1,21 @@
+Feature,Category,Count
+Speakers,Female,365.0
+Speakers,Male,305.0
+Speakers,Old,363.0
+Speakers,Young,299.0
+Words,Female,6387007.0
+Words,Male,3923982.0
+Words,Old,5703097.0
+Words,Young,4535388.0
+Turns,Female,749211.0
+Turns,Male,485957.0
+Turns,Old,683769.0
+Turns,Young,534948.0
+Average turn length,Female,8.524977609778821
+Average turn length,Male,8.074751469780248
+Average turn length,Old,8.34067791900481
+Average turn length,Young,8.478184795531527
+Type-token ratio,Female,0.009581013454345673
+Type-token ratio,Male,0.01406759765972423
+Type-token ratio,Old,0.010545147662752361
+Type-token ratio,Young,0.011978908970963454
